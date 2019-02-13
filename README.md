@@ -17,5 +17,5 @@ classes inside
  ```
 
  
- 
+ ![](https://github.com/tushargoel86/tic-tac-toe-using-react/blob/master/Tic-tac-toe.JPG)
          
